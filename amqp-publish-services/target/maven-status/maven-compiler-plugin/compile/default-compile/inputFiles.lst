@@ -1,0 +1,5 @@
+/Users/kuba/Documents/GitHub/SDJ3-IndirectCommunication/amqp-publish-services/src/main/java/org/example/Emit/EmitLog.java
+/Users/kuba/Documents/GitHub/SDJ3-IndirectCommunication/amqp-publish-services/src/main/java/org/example/Recieve/ReceiveLogs.java
+/Users/kuba/Documents/GitHub/SDJ3-IndirectCommunication/amqp-publish-services/src/main/java/org/example/Publisher/CanteenProductPublisher.java
+/Users/kuba/Documents/GitHub/SDJ3-IndirectCommunication/amqp-publish-services/src/main/java/org/example/Subscriber/CanteenProductSubscriber.java
+/Users/kuba/Documents/GitHub/SDJ3-IndirectCommunication/amqp-publish-services/src/main/java/org/example/Main.java

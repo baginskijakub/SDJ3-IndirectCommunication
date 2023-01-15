@@ -18,8 +18,11 @@ public class EmitLog {
             String message = argv.length < 1 ? "info: Hello World!" :
                     String.join(" ", argv);
 
-            channel.basicPublish(EXCHANGE_NAME, "", null, message.getBytes("UTF-8"));
-            System.out.println(" [x] Sent '" + message + "'");
+
+//            while(true){
+                channel.basicPublish(EXCHANGE_NAME, "", null, message.getBytes("UTF-8"));
+                System.out.println(" [x] Sent '" + message + "'");
+//            }
         }
     }
 }
