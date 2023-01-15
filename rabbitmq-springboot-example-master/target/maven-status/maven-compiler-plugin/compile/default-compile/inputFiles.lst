@@ -1,0 +1,7 @@
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/config/RabbitMQConfig.java
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/controller/PublisherRestController.java
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/RabbitmqSpringbootExampleApplication.java
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/controller/RabbitMQRestController.java
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/model/Product.java
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/publisher/SimplePublisher.java
+/Users/kuba/Downloads/rabbitmq-springboot-example-master/src/main/java/via/sdj3/rabbitmqspringbootexample/publisher/ProductPublisher.java

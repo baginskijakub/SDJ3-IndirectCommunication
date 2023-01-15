@@ -1,0 +1,7 @@
+via/sdj3/rabbitmqspringbootexample/publisher/ProductPublisher.class
+via/sdj3/rabbitmqspringbootexample/controller/RabbitMQRestController.class
+via/sdj3/rabbitmqspringbootexample/model/Product.class
+via/sdj3/rabbitmqspringbootexample/controller/PublisherRestController.class
+via/sdj3/rabbitmqspringbootexample/RabbitmqSpringbootExampleApplication.class
+via/sdj3/rabbitmqspringbootexample/config/RabbitMQConfig.class
+via/sdj3/rabbitmqspringbootexample/publisher/SimplePublisher.class
